@@ -8,7 +8,7 @@ This project detects the No of cars, color of the cars, No of male and female an
 4. Upload any image of a meeting room that contains group of people.
 5. Click on Detect button
 6. View Results
-7. After running this file, an image with detected people and their ages will be created in your environment. Just see that image for verification.
+7. After running this file, an image with detected cars and their colors will be created in your environment. Just see that image for verification.
 
 
 ## This Model has certain constraints
