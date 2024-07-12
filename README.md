@@ -15,3 +15,9 @@ This project detects the No of cars, color of the cars, No of male and female an
 1. It predicts Red color car as blue and blue color car as red.
 2. If the Traffic signal has People, It detects the no of male and female among them. (Note, By default their count is 0(zero)).
 3. It also gives the count of other vehicles present in the traffic other than cars.
+
+
+A Sample Output of gui file is as shown:
+
+![image](https://github.com/user-attachments/assets/afb0e34c-46af-40ef-b43f-c6edee2604b5)
+
