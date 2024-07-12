@@ -116,7 +116,7 @@ def Detect(img_path):
 
 top = tk.Tk()
 top.geometry('800x600')
-top.title('Age & Gender Detector')
+top.title('Vehicle Detector')
 top.configure(background='#CDCDCD')
 
 # Initializing the labels (1 for Age and 1 for Sex)
